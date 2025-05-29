@@ -100,7 +100,7 @@ Or manually add the following scripts at the end of the `<body>` tag in `web/ind
 
 ## 👨‍💻 Author
 
-Created by **[Your Name or GitHub](https://github.com/guicastle)** as an educational example for the Flutter community.
+Created by **[yourfrienddev](https://github.com/guicastle)** as an educational example for the Flutter community.
 
 ---
 
@@ -210,6 +210,6 @@ Ou adicione manualmente os seguintes scripts no final do `<body>` de `web/index.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome ou GitHub](https://github.com/guicastle)** como exemplo educacional para a comunidade Flutter.
+Desenvolvido por **[seuamigodev](https://github.com/guicastle)** como exemplo educacional para a comunidade Flutter.
 
 ---
